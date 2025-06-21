@@ -67,4 +67,3 @@ The internship provided me with hands-on experience through guided learning, pra
 - Refined transitions and interactivity using event-based JS.
 
 ---
----
