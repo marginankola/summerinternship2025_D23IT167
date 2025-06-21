@@ -67,3 +67,25 @@ The internship provided me with hands-on experience through guided learning, pra
 - Refined transitions and interactivity using event-based JS.
 
 ---
+
+### 🔹 Week 3: React.js Fundamentals + UI Enhancement (03–07 June)
+
+#### 📆 03/06/2025
+- Started React.js: components, JSX, and props.
+- Built simple UI blocks and learned component hierarchy.
+
+#### 📆 04/06/2025
+- Learned and implemented `useState` hook for local state management.
+- Handled button interactions and input updates within components.
+
+#### 📆 05/06/2025
+- Practiced conditional rendering and working with arrays in JSX.
+- Applied React concepts to design reusable cards and modals.
+
+#### 📆 06/06/2025
+- Started using Tailwind CSS for styling components.
+- Implemented responsive layout and color schemes with utility classes.
+
+#### 📆 07/06/2025
+- Built a small React project integrating `useEffect` for data fetching.
+- Implemented loading states and conditional UI rendering.
