@@ -1,6 +1,6 @@
-#  Summer Internship 2025 – D23IT163
+#  Summer Internship 2025 – D23IT167
 
-# 💻 Internship at [Company Name] – Full Stack Development
+# 💻 Internship at SoftRefine Technology – Full Stack Development
 
 This repository documents my **One-Month Summer Internship** at **SoftRefine Technology, Junagadh**.  
 As a **MERN Stack Development Intern**, I primarily focused on enhancing my skills in **JavaScript**, **React.js**, **Tailwind CSS**, and **Redux Toolkit**.  
