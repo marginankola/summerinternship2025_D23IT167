@@ -89,3 +89,5 @@ The internship provided me with hands-on experience through guided learning, pra
 #### 📆 07/06/2025
 - Built a small React project integrating `useEffect` for data fetching.
 - Implemented loading states and conditional UI rendering.
+
+---
