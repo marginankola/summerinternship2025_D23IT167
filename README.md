@@ -43,3 +43,27 @@ The internship provided me with hands-on experience through guided learning, pra
 - Practiced methods like `map`, `filter`, `reduce`, and dynamic data storage.
 
 ---
+
+### 🔹 Week 2: DOM Manipulation & ES6+ Features (27–31 May)
+
+#### 📆 27/05/2025
+- Learned how to select and manipulate DOM elements.
+- Practiced DOM events like `click`, `keyup`, and built basic interactive behavior.
+
+#### 📆 28/05/2025
+- Built interactive interfaces using DOM updates.
+- Created a form handler with validation using JS.
+
+#### 📆 29/05/2025
+- Studied modern JavaScript (ES6+): template literals, destructuring, spread/rest.
+- Refactored old-style JS code to cleaner syntax.
+
+#### 📆 30/05/2025
+- Deep-dived into asynchronous JavaScript: callbacks, promises, `async/await`.
+- Fetched public API data and displayed dynamic content using JS.
+
+#### 📆 31/05/2025
+- Contributed to company dashboard UI – updated JavaScript carousel logic.
+- Refined transitions and interactivity using event-based JS.
+
+---
