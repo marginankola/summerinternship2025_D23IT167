@@ -115,3 +115,25 @@ The internship provided me with hands-on experience through guided learning, pra
 - Conducted UI testing across devices and screens.
 
 ---
+
+### 🔹 Week 5: Redux Toolkit & Final Work (17–23 June)
+
+#### 📆 16/06/2025
+- Introduced to Redux and Redux Toolkit: store, slices, actions, and reducers.
+- Set up a basic global state for a sample product structure.
+
+#### 📆 17/06/2025
+- Practiced state flow using `useSelector` and `useDispatch`.
+- Added logic for adding and removing items from shared state.
+
+#### 📆 18/06/2025
+- Connected Redux state with UI components.
+- Handled API data loading and status management with Redux.
+
+#### 📆 19/06/2025
+- Contributed to company module: added dynamic search and filter using Redux state.
+- Refined overall component logic and fixed rendering bugs.
+
+#### 📆 20/06/2025
+- Cleaned up component folder structure and ensured reusable logic separation.
+- Participated in final internal review and team feedback session.
