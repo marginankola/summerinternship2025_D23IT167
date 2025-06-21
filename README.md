@@ -46,23 +46,23 @@ The internship provided me with hands-on experience through guided learning, pra
 
 ### 🔹 Week 2: DOM Manipulation & ES6+ Features (27–31 May)
 
-#### 📆 27/05/2025
+#### 📆 26/05/2025
 - Learned how to select and manipulate DOM elements.
 - Practiced DOM events like `click`, `keyup`, and built basic interactive behavior.
 
-#### 📆 28/05/2025
+#### 📆 27/05/2025
 - Built interactive interfaces using DOM updates.
 - Created a form handler with validation using JS.
 
-#### 📆 29/05/2025
+#### 📆 28/05/2025
 - Studied modern JavaScript (ES6+): template literals, destructuring, spread/rest.
 - Refactored old-style JS code to cleaner syntax.
 
-#### 📆 30/05/2025
+#### 📆 29/05/2025
 - Deep-dived into asynchronous JavaScript: callbacks, promises, `async/await`.
 - Fetched public API data and displayed dynamic content using JS.
 
-#### 📆 31/05/2025
+#### 📆 30/05/2025
 - Contributed to company dashboard UI – updated JavaScript carousel logic.
 - Refined transitions and interactivity using event-based JS.
 
@@ -70,23 +70,23 @@ The internship provided me with hands-on experience through guided learning, pra
 
 ### 🔹 Week 3: React.js Fundamentals + UI Enhancement (03–07 June)
 
-#### 📆 03/06/2025
+#### 📆 02/06/2025
 - Started React.js: components, JSX, and props.
 - Built simple UI blocks and learned component hierarchy.
 
-#### 📆 04/06/2025
+#### 📆 03/06/2025
 - Learned and implemented `useState` hook for local state management.
 - Handled button interactions and input updates within components.
 
-#### 📆 05/06/2025
+#### 📆 04/06/2025
 - Practiced conditional rendering and working with arrays in JSX.
 - Applied React concepts to design reusable cards and modals.
 
-#### 📆 06/06/2025
+#### 📆 05/06/2025
 - Started using Tailwind CSS for styling components.
 - Implemented responsive layout and color schemes with utility classes.
 
-#### 📆 07/06/2025
+#### 📆 06/06/2025
 - Built a small React project integrating `useEffect` for data fetching.
 - Implemented loading states and conditional UI rendering.
 
@@ -94,23 +94,23 @@ The internship provided me with hands-on experience through guided learning, pra
 
 ### 🔹 Week 4: Intermediate React + Company Component Work (10–14 June)
 
-#### 📆 10/06/2025
+#### 📆 09/06/2025
 - Learned controlled and uncontrolled form elements in React.
 - Created a responsive form interface and handled real-time input updates.
 
-#### 📆 11/06/2025
+#### 📆 10/06/2025
 - Worked on a modal component for use in internal company UI.
 - Applied conditional rendering and Tailwind styling with transitions.
 
-#### 📆 12/06/2025
+#### 📆 11/06/2025
 - Designed search and filter functionality on sample datasets.
 - Optimized render logic to improve UX for large lists.
 
-#### 📆 13/06/2025
+#### 📆 12/06/2025
 - Collaborated on internal dashboard structure.
 - Integrated different sections using props and state lifting techniques.
 
-#### 📆 14/06/2025
+#### 📆 13/06/2025
 - Finalized page layout responsiveness using Tailwind’s grid and flex utilities.
 - Conducted UI testing across devices and screens.
 
