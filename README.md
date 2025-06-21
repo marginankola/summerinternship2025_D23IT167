@@ -91,3 +91,27 @@ The internship provided me with hands-on experience through guided learning, pra
 - Implemented loading states and conditional UI rendering.
 
 ---
+
+### 🔹 Week 4: Intermediate React + Company Component Work (10–14 June)
+
+#### 📆 10/06/2025
+- Learned controlled and uncontrolled form elements in React.
+- Created a responsive form interface and handled real-time input updates.
+
+#### 📆 11/06/2025
+- Worked on a modal component for use in internal company UI.
+- Applied conditional rendering and Tailwind styling with transitions.
+
+#### 📆 12/06/2025
+- Designed search and filter functionality on sample datasets.
+- Optimized render logic to improve UX for large lists.
+
+#### 📆 13/06/2025
+- Collaborated on internal dashboard structure.
+- Integrated different sections using props and state lifting techniques.
+
+#### 📆 14/06/2025
+- Finalized page layout responsiveness using Tailwind’s grid and flex utilities.
+- Conducted UI testing across devices and screens.
+
+---
