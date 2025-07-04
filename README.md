@@ -2,7 +2,7 @@
 
 # 💻 Internship at SoftRefine Technology – Full Stack Development
 
-This repository documents my **One-Month Summer Internship** at **SoftRefine Technology, Junagadh**.  
+This repository documents my **Summer Internship** at **SoftRefine Technology, Junagadh**.  
 As a **MERN Stack Development Intern**, I primarily focused on enhancing my skills in **JavaScript**, **React.js**, **Tailwind CSS**, and **Redux Toolkit**.  
 The internship provided me with hands-on experience through guided learning, practical assignments, and working on real components within the company's codebase.
 
@@ -11,8 +11,7 @@ The internship provided me with hands-on experience through guided learning, pra
 ## 📌 Internship Overview
 
 - **Role:** MERN Stack Intern (Frontend Focus)  
-- **Domain:** Web Development  
-- **Duration:** 19 May 2025 – 23 June 2025   
+- **Domain:** Web Development     
 - **Mode:** Offline  
 
 ---
@@ -44,7 +43,7 @@ The internship provided me with hands-on experience through guided learning, pra
 
 ---
 
-### 🔹 Week 2: DOM Manipulation & ES6+ Features (27–31 May)
+### 🔹 Week 2: DOM Manipulation & ES6+ Features (26–30 May)
 
 #### 📆 26/05/2025
 - Learned how to select and manipulate DOM elements.
@@ -68,7 +67,7 @@ The internship provided me with hands-on experience through guided learning, pra
 
 ---
 
-### 🔹 Week 3: React.js Fundamentals + UI Enhancement (03–07 June)
+### 🔹 Week 3: React.js Fundamentals + UI Enhancement (02–06 June)
 
 #### 📆 02/06/2025
 - Started React.js: components, JSX, and props.
@@ -92,7 +91,7 @@ The internship provided me with hands-on experience through guided learning, pra
 
 ---
 
-### 🔹 Week 4: Intermediate React + Company Component Work (10–14 June)
+### 🔹 Week 4: Intermediate React + Company Component Work (9–13 June)
 
 #### 📆 09/06/2025
 - Learned controlled and uncontrolled form elements in React.
@@ -116,7 +115,7 @@ The internship provided me with hands-on experience through guided learning, pra
 
 ---
 
-### 🔹 Week 5: Redux Toolkit & Final Work (17–23 June)
+### 🔹 Week 5: Redux Toolkit & Final Work (16–20 June)
 
 #### 📆 16/06/2025
 - Introduced to Redux and Redux Toolkit: store, slices, actions, and reducers.
@@ -137,3 +136,46 @@ The internship provided me with hands-on experience through guided learning, pra
 #### 📆 20/06/2025
 - Cleaned up component folder structure and ensured reusable logic separation.
 - Participated in final internal review and team feedback session.
+
+---
+
+### 🔹 Week 6: Final Revisions, API Work & Team Collaboration (24- 27 June)
+
+#### 📆 23/06/2025
+- Concluded initial internship phase with review and feedback.
+- Prepared for extension with final documentation on reusable components.
+
+#### 📆 24/06/2025
+- Revisited previously built components for optimization.
+- Implemented reusable logic to reduce code duplication across pages.
+
+#### 📆 25/06/2025
+- Focused on API error handling and edge-case testing.
+- Added custom error messages and fallback UIs for failed requests.
+
+#### 📆 26/06/2025
+- Enhanced UI/UX of filter and search components with animations using Tailwind transitions.
+- Refactored multiple components to improve responsiveness across screen sizes.
+
+#### 📆 27/06/2025
+- Collaborated with team to update company dashboard theme and branding.
+- Standardized colors, buttons, and layout based on new guidelines.
+
+---
+
+
+#### 📆 01/07/2025
+- Conducted debugging session for Redux state flow issues in a form module.
+- Implemented performance improvements using memoization and proper state slice structure.
+
+#### 📆 02/07/2025
+- Integrated pagination logic to display API results in chunks.
+- Finalized scroll-based loading UX for better navigation experience.
+
+#### 📆 03/07/2025
+- Participated in peer-review and live testing across multiple browsers.
+- Resolved styling inconsistencies and accessibility issues.
+
+#### 📆 04/07/2025
+- Completed final tweaks and internal deployment prep for modules worked on.
+- Documented usage instructions for reusable components and submitted to mentor.
