@@ -163,6 +163,8 @@ The internship provided me with hands-on experience through guided learning, pra
 
 ---
 
+### 🔹 Week 7: Final Internship Review & Submission (01-04 July)
+
 
 #### 📆 01/07/2025
 - Conducted debugging session for Redux state flow issues in a form module.
@@ -179,3 +181,40 @@ The internship provided me with hands-on experience through guided learning, pra
 #### 📆 04/07/2025
 - Completed final tweaks and internal deployment prep for modules worked on.
 - Documented usage instructions for reusable components and submitted to mentor.
+
+
+### 🔹 Week 8: Virtual Piano – React Project (07–11 July)
+
+#### 📆 07/07/2025
+- Started a new React project: building a virtual piano interface.
+- Designed the piano key layout and implemented basic note play on mouse click.
+
+#### 📆 08/07/2025
+- Integrated SMPLR API to load instrument sounds dynamically.
+- Enabled instrument selection and mapped sounds to corresponding keys.
+
+#### 📆 09/07/2025
+- Added keyboard key press functionality synced with piano keys.
+- Implemented dual display modes: one showing laptop key mappings, another showing chords.
+
+#### 📆 10/07/2025
+- Developed recording functionality for played audio sequences.
+- Integrated BPM (beats per minute) adjustment for playback speed control.
+
+#### 📆 11/07/2025
+- Completed UI polish and bug fixing.
+- Added functionality to download recorded audio and finalized project features.
+
+---
+
+## 🎯 Project: Virtual Piano – Interactive Piano Interface using React
+
+🛠️ **Purpose:** To build an interactive virtual piano to explore React components, event handling, audio APIs, recording features, and user-driven UI interactions.
+
+🛠️ **Tech Stack**  
+- React.js  
+- Tailwind CSS  
+- JavaScript (ES6+)  
+- SMPLR API (instrument audio)  
+- HTML5 & CSS3  
+- Git & GitHub (for version control)
